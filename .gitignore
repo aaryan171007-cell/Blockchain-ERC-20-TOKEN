@@ -1,0 +1,25 @@
+# Logs & System artifacts
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Frontend Dependencies & Production builds
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.local
+
+# Backend Foundry Compilation & Cache data
+backend/out/
+backend/cache/
+backend/lib/
+
+# Editor configuration files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
