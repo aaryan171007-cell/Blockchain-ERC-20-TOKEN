@@ -77,13 +77,19 @@ The application will boot up immediately. Open your browser and navigate to http
 <img width="1917" height="622" alt="image" src="https://github.com/user-attachments/assets/f97dd257-2aa5-4985-9eb5-9f7e611822e0" />
 
 2. ARX TOKEN Dashboard
+
 Dark Mode :
+
 <img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/bb5e0416-f4c6-43ef-938e-9fa1dd255970" />
 
+
 Light Mode : 
+
 <img width="1901" height="910" alt="image" src="https://github.com/user-attachments/assets/a2b063af-9dfa-4396-9f7e-6d0c478505a9" />
 
+
 3. Demo video showing minting tokens and simultaneous update in the leaderboard
+
 
 https://github.com/user-attachments/assets/1a0f1b4c-d588-4714-bbba-7fed52d59777
 
