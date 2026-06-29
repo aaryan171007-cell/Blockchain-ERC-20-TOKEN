@@ -57,20 +57,43 @@ To run this project locally, ensure you have the following installed:
 ```bash
 git clone [https://github.com/aaryan171007-cell/Blockchain-ERC-20-TOKEN.git](https://github.com/aaryan171007-cell/Blockchain-ERC-20-TOKEN.git)
 cd Blockchain-ERC-20-TOKEN
+```
 
 2. **Navigate into the frontend folder and install dependencies:**
 ```bash
 cd Frontend
 npm install
+```
 
 3. **Launch the local development server:**
 ```bash
 npm run dev
+```
 
 The application will boot up immediately. Open your browser and navigate to http://localhost:5173.
 
-## ⚠️ Known Issues & Future Work
+## 📸 Screenshots and Demo Videos
+1. Landing Page : Asks for Web3 (Metamask) wallet connection
+<img width="1917" height="622" alt="image" src="https://github.com/user-attachments/assets/f97dd257-2aa5-4985-9eb5-9f7e611822e0" />
 
-* **Testnet Shift Refresh:** The current frontend iteration does not automatically refresh its state if a user changes their active network chain inside MetaMask (e.g., shifting from a testnet to another chain) without a manual browser page reload 
+2. ARX TOKEN Dashboard
+Dark Mode :
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/bb5e0416-f4c6-43ef-938e-9fa1dd255970" />
+
+Light Mode : 
+<img width="1901" height="910" alt="image" src="https://github.com/user-attachments/assets/a2b063af-9dfa-4396-9f7e-6d0c478505a9" />
+
+3. Demo video showing minting tokens and simultaneous update in the leaderboard
+
+https://github.com/user-attachments/assets/1a0f1b4c-d588-4714-bbba-7fed52d59777
+
+
+## ⚠️ Known Issues 
+
+* **Testnet Shift Refresh:** The current frontend UI does not automatically refresh its state if a user changes their network inside MetaMask e.g., shifting from a testnet to another chain without a manual browser page reload
+
+## Future Work
+
+* **Request Button:** I would like to have a request button too as a feature because if a user is able to see the top currency holders in the leaderboard, the contract should enable them to request some tokens from the top currency bearers so that they directly get some tokens without having to spend the gas fees
 
 
