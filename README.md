@@ -4,14 +4,14 @@ This is a full-stack decentralized application (dApp) featuring a custom ERC-20 
 
 ---
 
-## 📌Project Overview
+## Project Overview
 This project provides an intuitive Web3 interface enabling users to interact directly with an ERC-20 token smart contract via their web browsers only without writing terminal-based blockchain interaction commands by offering them a real-time token tracking, a secure multi-wallet transfer portal, and dynamic balance analytics built to standard cryptographic specifications.
 
 This smart contract is deployed on Sepolia ethereum testnet and one can view it on etherscan too through the contract address provided in the Contract_info.txt file.
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 * **Smart Contract Integration:** Replicated the Remix-IDE features such as minting, transfering, burning etc. features on the react UI itself so that user is not required to jump in the solidity codes and understand what's going on.
 
 * **Web3 Wallet Connection:** Seamless authentication flow and checks for MetaMask and other standard browser-based Web3 providers.
@@ -32,7 +32,7 @@ This smart contract is deployed on Sepolia ethereum testnet and one can view it 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend Dashboard
 * **Framework:** React.js (v19.2) via Vite (v8.0)
@@ -44,7 +44,7 @@ This smart contract is deployed on Sepolia ethereum testnet and one can view it 
 
 ---
 
-## 🚀 Setup & Build Instructions
+## Setup & Build Instructions
 
 ### Prerequisites
 To run this project locally, ensure you have the following installed:
@@ -96,7 +96,7 @@ Light Mode :
 https://github.com/user-attachments/assets/1a0f1b4c-d588-4714-bbba-7fed52d59777
 
 
-## ⚠️ Known Issues 
+## Known Issues 
 
 * **Testnet Shift Refresh:** The current frontend UI does not automatically refresh its state if a user changes their network inside MetaMask e.g., shifting from a testnet to another chain without a manual browser page reload
 
