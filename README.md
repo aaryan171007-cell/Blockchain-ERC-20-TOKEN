@@ -55,7 +55,7 @@ To run this project locally, ensure you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/aaryan171007-cell/Blockchain-ERC-20-TOKEN.git](https://github.com/aaryan171007-cell/Blockchain-ERC-20-TOKEN.git)
+git clone https://github.com/aaryan171007-cell/Blockchain-ERC-20-TOKEN
 cd Blockchain-ERC-20-TOKEN
 ```
 
