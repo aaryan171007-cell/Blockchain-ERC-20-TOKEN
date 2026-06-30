@@ -7,7 +7,7 @@ This is a full-stack decentralized application (dApp) featuring a custom ERC-20 
 ## 📌Project Overview
 This project provides an intuitive Web3 interface enabling users to interact directly with an ERC-20 token smart contract via their web browsers only without writing terminal-based blockchain interaction commands by offering them a real-time token tracking, a secure multi-wallet transfer portal, and dynamic balance analytics built to standard cryptographic specifications.
 
-This smart contract is deployed on sepolia ethereum testnet and one can view it on etherscan too through the contract address provided in the Contract_info.txt file.
+This smart contract is deployed on Sepolia ethereum testnet and one can view it on etherscan too through the contract address provided in the Contract_info.txt file.
 
 ---
 
@@ -71,6 +71,8 @@ npm run dev
 ```
 
 The application will boot up immediately. Open your browser and navigate to http://localhost:5173.
+
+**Note on Network Configuration:** This smart contract is deployed on the **Sepolia Testnet**. Please ensure your connected browser wallet e.g., MetaMask is switched to the **Sepolia** testnet network and funded with testnet ETH before executing transactions.
 
 ## 📸 Screenshots and Demo Videos
 1. Landing Page : Asks for Web3 (Metamask) wallet connection
